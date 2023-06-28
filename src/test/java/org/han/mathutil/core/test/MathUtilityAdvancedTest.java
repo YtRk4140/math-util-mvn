@@ -16,9 +16,9 @@ import org.junit.jupiter.params.provider.MethodSource;
 public class MathUtilityAdvancedTest {
     
     //CHUẨN BỊ SẴN RIÊNG TEST DATA, LÁT HỒI FILL VÀO HÀM
-    //ĐT
+    //DDT
     
-    //hàm trả về mảng 2 chiều, kiểu WRAPPẺ CLASS/OBJECT
+    //hàm trả về mảng 2 chiều, kiểu WRAPPER CLASS/OBJECT
     //mảng chứa các cặp n -> expected, ví dụ 0! -> 1; 1! -> 1; 5 -> 120
     public static Object[][] initTestData(){
         
