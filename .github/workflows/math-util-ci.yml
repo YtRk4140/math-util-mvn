@@ -28,5 +28,5 @@ jobs:
     - name: Make hyperlink to jar-war file # Tạo hyperlink để download build 
       uses: actions/upload-artifact@v1
       with:
-        name: nha-tuyen-dung-download-jar-oday.zip # Đây là hyperlink download .jar .war bên Mỹ
+        name: nha-tuyen-dung-download-jar-o-day.zip # Đây là hyperlink download .jar .war bên Mỹ
         path: staging
